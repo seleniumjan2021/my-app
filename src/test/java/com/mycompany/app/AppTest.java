@@ -15,7 +15,7 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     {
-        assertTrasasue( true );
-	System.out.prinasaxaxaxatln("Test Complete");
+        assertTrue( true );
+	System.out.println("Test Complete");
     }
 }
